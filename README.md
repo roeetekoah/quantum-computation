@@ -11,9 +11,18 @@ Proofs and circuit constructions for quantum algorithms, quantum codes, and circ
 
 ## Read the work
 
-| Theory report | Supporting appendices | Paper review |
-| --- | --- | --- |
-| **[Quantum Algorithms, Codes & Circuit Complexity](pdfs/quantum-computation-project.pdf)**<br>63 pages · proofs, constructions, and resource analysis | **[Read the appendices](pdfs/project-appendices.pdf)**<br>26 pages · supporting derivations and circuit primers for the theory report | **[Quantum Mean Estimation — Paper Review](pdfs/quantum-mean-estimation-review.pdf)**<br>5 pages · coherent access, spectral construction, and estimation in [Kothari and O'Donnell's algorithm](https://arxiv.org/abs/2208.07544) |
+<table width="100%">
+<tr>
+<th width="33%">Advanced Quantum Computation</th>
+<th width="33%">Appendices</th>
+<th width="33%">Mean Estimation Review</th>
+</tr>
+<tr>
+<td valign="top"><strong><a href="pdfs/quantum-computation-project.pdf">Read&nbsp;PDF</a></strong> · 63 pages<br>Algorithms, codes, and circuit complexity.</td>
+<td valign="top"><strong><a href="pdfs/project-appendices.pdf">Read&nbsp;PDF</a></strong> · 26 pages<br>Supporting derivations and circuit primers.</td>
+<td valign="top"><strong><a href="pdfs/quantum-mean-estimation-review.pdf">Read&nbsp;PDF</a></strong> · 5 pages<br>Coherent access and spectral estimation.</td>
+</tr>
+</table>
 
 <table width="100%">
 <tr>
@@ -23,7 +32,7 @@ Proofs and circuit constructions for quantum algorithms, quantum codes, and circ
 </tr>
 </table>
 
-## Theory report
+## Algorithms, Codes and Circuit Complexity
 
 ### Topic index
 
@@ -42,6 +51,8 @@ For cross-document links, download the report and appendices together. Page numb
 ## Academic context
 
 Developed in Prof. Michael Ben-Or's advanced quantum computation course at the Hebrew University of Jerusalem (67596; official title: *Introduction to Quantum Computation*).
+
+The paper review examines [Kothari and O'Donnell's quantum mean-estimation algorithm](https://arxiv.org/abs/2208.07544).
 
 ## Companion coursebook
 
