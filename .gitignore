@@ -1,0 +1,28 @@
+# Generated TeX files and local build output
+.build/
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.idx
+*.ilg
+*.ind
+*.lof
+*.log
+*.lot
+*.out
+*.run.xml
+*.synctex.gz
+*.toc
+*.xdv
+
+# Local Python environments and operating-system files
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+.env
+.env.*
